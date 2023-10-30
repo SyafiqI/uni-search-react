@@ -1,0 +1,27 @@
+.main {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  padding: 0% 5%;
+  /* align-items: center; */
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+h1 {
+  margin: 10px;
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+}
+
+.search {
+  width: 100%;
+}
+
+ul li {
+  font-size: 20px;
+}
+
+.appbar {
+  color: beige;
+}
